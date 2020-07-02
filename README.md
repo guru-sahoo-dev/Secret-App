@@ -1,1 +1,1 @@
-# Secret-App
+# Secret-App (using bcrypt)
